@@ -3,10 +3,16 @@
 
 司长您好。
 
-微软在WinHEC 2015会议（ https://www.winhec.com/zh-CN/ ）中说明允许制造商锁定预装Windows 10计算机的Secure Boot。（MSDN上的幻灯片： http://files.channel9.msdn.com/thumbnail/2eb04802-c4bb-4112-b54b-cffc2b612d6e.pptx ，第10页，原文是：“Enabled and switch to disable is optional”）
+微软在 WinHEC 2015 会议（ https://www.winhec.com/zh-CN/ ）中说明允许制造商锁定预装 Windows 10 计算机的 Secure Boot 。（ MSDN 上的幻灯片： http://files.channel9.msdn.com/thumbnail/2eb04802-c4bb-4112-b54b-cffc2b612d6e.pptx ，第 10 页，原文是：“ Enabled and switch to disable is optional ”）
 
-Secure Boot本来是一个用于保证主板只引导经过了数字签名的系统的功能，该功能可以防止恶意软件注入到系统引导部分来危害系统安全。但实际上有能力广泛地让制造商在机器内内置签名的厂商仅有微软一家。如果Secure Boot被强制开启，则意味着用户无法引导其它操作系统，也就是说，这样的计算机将仅能启动Windows操作系统。
+Secure Boot 本来是一个用于保证主板只引导经过了数字签名的系统的功能，该功能可以防止恶意软件注入到系统引导部分来危害系统安全。但实际上有能力广泛地让制造商在机器内内置签名的厂商仅有微软一家。如果 Secure Boot 被强制开启，则意味着用户无法引导其它操作系统，也就是说，这样的计算机将仅能启动 Windows 操作系统。
 
-虽然原文中提到是所谓“Optional”（可选），但如果制造商普遍选择锁定Secure Boot，将极大加强微软在PC市场的垄断地位，而且将把广大PC用户至于微软的完全控制之下。
+虽然原文中提到是所谓“ Optional ”（可选），但如果制造商普遍选择锁定 Secure Boot ，将极大加强微软在 PC 市场的垄断地位，而且将把广大 PC 用户至于微软的完全控制之下。
 
-我呼吁工信部介入调查微软的行为，禁止在中国大陆销售锁定Secure Boot的计算机。
+根据《中华人民共和国反垄断法》第一章第六条之规定：具有市场支配地位的经营者，不得滥用市场支配地位，排除、限制竞争。以及第三章第十七条第四、第五款之规定：**（四）没有正当理由，限定交易相对人只能与其进行交易或者只能与其指定的经营者进行交易；**
+**（五）没有正当理由搭售商品，或者在交易时附加其他不合理的交易条件；**
+我们认为微软的做法可能涉嫌违反上述法律法规。
+
+从用户角度看来，如果我们购买了锁定 Secure Boot 的计算机，如果我们不喜欢或者不习惯使用 Windows 10 ，我们可能无法更换其中的操作系统。
+
+我呼吁工信部介入调查微软的行为，禁止在中国大陆销售锁定 Secure Boot 的计算机。
