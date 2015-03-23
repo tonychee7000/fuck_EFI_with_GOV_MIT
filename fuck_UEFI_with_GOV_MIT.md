@@ -1,3 +1,6 @@
+标题：请制止微软锁定Windows 10电脑的启动选项的行为
+---------------------------------------------------
+
 司长您好。
 
 微软在WinHEC 2015会议（ https://www.winhec.com/zh-CN/ ）中说明允许制造商锁定预装Windows 10计算机的Secure Boot。（MSDN上的幻灯片： http://files.channel9.msdn.com/thumbnail/2eb04802-c4bb-4112-b54b-cffc2b612d6e.pptx ，第10页，原文是：“Enabled and switch to disable is optional”）
